@@ -26,13 +26,14 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Developer** specializing in the **MERN Stack** and **Next.js**, passionate about building **scalable, performant, and user-friendly web applications**. I enjoy turning complex problems into clean, simple, and maintainable code.
+I'm a **Full Stack Developer** specializing in the **MERN Stack** and **Next.js**, with a strong foundation in **Object-Oriented Programming (OOP)** and **secure backend architecture**. I focus on writing **clean, maintainable, and scalable code**, and I care deeply about how systems are designed — not just how they look on the surface.
 
-- 🔭 Currently building enterprise-grade ERP & production management systems
-- 🌱 Constantly learning new tools, frameworks, and best practices
-- 💡 Strong focus on **problem-solving**, **clean architecture**, and **scalable systems**
+- 🔭 Currently building an enterprise-grade **ERP system** for inventory & production management
+- 🔐 Comfortable implementing **secure authentication systems** (JWT, bcrypt, role-based access)
+- 🧩 Solid understanding of **OOP principles** — encapsulation, inheritance, polymorphism, abstraction
+- 🎨 Can bridge design and development — comfortable working with **Figma** for UI/UX handoff
+- 🌱 Constantly learning new tools, patterns, and best practices
 - 🤝 Open to **freelance** and **full-time** opportunities
-- ⚡ Fun fact: I love converting messy requirements into polished, working products
 
 <br/>
 
@@ -53,28 +54,48 @@ I'm a **Full Stack Developer** specializing in the **MERN Stack** and **Next.js*
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
 <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
 
-**Backend**
+**Backend & Authentication**
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/bcrypt.js-2563EB?style=for-the-badge&logo=letsencrypt&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-2563EB?style=for-the-badge&logo=fastapi&logoColor=white" />
 
 **Database**
 
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 
-**Programming Languages**
+**Programming Languages & Concepts**
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/OOP-0F172A?style=for-the-badge&logo=codeigniter&logoColor=white" />
 
-**Tools & Platforms**
+**Design & Tools**
 
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_APIs-2563EB?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+
+</div>
+
+<br/>
+
+## 🧠 Core Concepts I Work With
+
+<div align="center">
+
+| Category | Concepts |
+|---|---|
+| **OOP Fundamentals** | Encapsulation, Inheritance, Polymorphism, Abstraction |
+| **Authentication & Security** | JWT (Access/Refresh Tokens), bcrypt Password Hashing, Middleware Guards, Role-Based Access Control (RBAC) |
+| **API Design** | RESTful Architecture, CRUD Operations, Error Handling, Rate Limiting |
+| **Design Collaboration** | Figma-to-Code Workflow, Responsive UI Implementation, Design Systems |
 
 </div>
 
@@ -96,9 +117,10 @@ I'm a **Full Stack Developer** specializing in the **MERN Stack** and **Next.js*
 ### 💻 Freelance — **CRM & Ticketing System**
 📅 *Dec 2024 – Jan 2025*
 - Built a complete **ticket management** workflow
-- Implemented secure **authentication**
-- Designed **role-based access control** for different user types
+- Implemented secure **authentication using JWT** and **bcrypt password hashing**
+- Designed **role-based access control (RBAC)** for different user types
 - Added real-time **status tracking** for support tickets
+- Structured backend logic using **OOP principles** for maintainability
 
 ---
 
@@ -118,9 +140,9 @@ I'm a **Full Stack Developer** specializing in the **MERN Stack** and **Next.js*
 <td width="50%">
 
 ### 🏭 Inventory & Production Management System
-Full-scale ERP solution for managing inventory, production workflows, and business reporting.
+Full-scale ERP solution for managing inventory, production workflows, and business reporting, built with secure role-based authentication.
 
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, JWT, bcrypt, Tailwind CSS
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://aero-style-erp.vercel.app)
 
