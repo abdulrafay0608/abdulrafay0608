@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F172A,50:1E3A8A,100:2563EB&text=Abdul%20Rafay&fontColor=FFFFFF&fontSize=50&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20MERN%20%26%20Next.js&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F172A,100:2563EB&text=Abdul%20Rafay&fontColor=FFFFFF&fontSize=50&fontAlignY=35&desc=Full%20Stack%20Developer%20-%20MERN%20and%20Next.js&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://abdulrafay-developer.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=650&lines=Building+scalable+MERN+applications;Designing+Clean%2C+Secure%2C+Modern+Systems;Currently+Building+an+Enterprise+ERP;Open+to+Full-Time+%26+Freelance+Work" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=650&lines=Building+scalable+MERN+applications;Designing+clean+and+secure+systems;Currently+building+an+Enterprise+ERP;Open+to+Full-Time+and+Freelance+Work" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -20,7 +20,7 @@
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0F172A,100:2563EB&width=100%" width="100%"/>
 
 <table>
 <tr>
@@ -33,10 +33,10 @@ I'm a **Full Stack Developer** from Karachi, Pakistan, specializing in the **MER
 ```yaml
 name: Abdul Rafay
 role: Full Stack Developer
-stack: MERN • Next.js • Tailwind
+stack: MERN, Next.js, Tailwind
 focus: Enterprise ERP System
 learning: [System Design, Framer Motion, GSAP]
-status: Open to Work 🟢
+status: Open to Work
 ```
 
 </td>
@@ -58,11 +58,23 @@ status: Open to Work 🟢
 
 <br/>
 
+## 📌 Featured Projects
+
+<div align="center">
+
+<a href="https://abdulrafay-developer.vercel.app">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=abdulrafay0608&repo=abdulrafay0608&theme=tokyonight&hide_border=true&show_owner=true" height="150"/>
+</a>
+
+</div>
+
+<br/>
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abdulrafay0608&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=abdulrafay0608&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 <img src="https://github-readme-streak-stats.demolab.com/?user=abdulrafay0608&theme=tokyonight&hide_border=true" height="170"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrafay0608&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
@@ -81,10 +93,14 @@ status: Open to Work 🟢
 <br/>
 
 <div align="center">
+
+### 🐍 Contribution Snake
+
 <img src="https://raw.githubusercontent.com/abdulrafay0608/abdulrafay0608/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2563EB,100:0F172A&width=100%" width="100%"/>
 
 <div align="center">
 
