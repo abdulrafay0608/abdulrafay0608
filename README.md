@@ -34,8 +34,8 @@ I'm a **Full Stack Developer** from Karachi, Pakistan, specializing in the **MER
 name: Abdul Rafay
 role: Full Stack Developer
 stack: MERN, Next.js, Tailwind
-focus: Enterprise ERP System
-learning: [System Design, Framer Motion, GSAP]
+focus: Scalable Dynamic and Static Web Apps
+learning: New Technologies
 status: Open to Work
 ```
 
