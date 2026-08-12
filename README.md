@@ -1,173 +1,115 @@
 <div align="center">
-<!-- <img src="./assets/banner.png" alt="Abdul Rafay Banner" width="100%" /> -->
-</div>
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F172A,100:2563EB&text=Abdul%20Rafay&fontColor=FFFFFF&fontSize=50&fontAlignY=35&desc=Full%20Stack%20Developer%20-%20MERN%20and%20Next.js&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
-<h1>Abdul Rafay</h1>
-<h3>Full Stack Developer — MERN Stack & Next.js</h3>
-
-<p>
-<img src="https://img.shields.io/badge/📍-Karachi,_Pakistan-2563EB?style=for-the-badge&labelColor=0F172A" />
-<img src="https://img.shields.io/badge/Status-Open_to_Work-2563EB?style=for-the-badge&labelColor=0F172A" />
-</p>
-
-<p>
-<a href="https://abdulrafay-developer.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://linkedin.com/in/abdulrafay0608"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:abdulrafay0608@gmail.com"><img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-</div>
+<a href="https://abdulrafay-developer.vercel.app">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=650&lines=Building+scalable+MERN+applications;Designing+clean+and+secure+systems;Currently+building+an+Enterprise+ERP;Open+to+Full-Time+and+Freelance+Work" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<table align="center" width="100%">
-<tr>
-<td width="100%">
-
-### 🧭 About Me
-
-Full Stack Developer specializing in the **MERN Stack** and **Next.js**, with a strong foundation in **Object-Oriented Programming** and secure backend development — including **JWT authentication**, **bcrypt password hashing**, and **role-based access control**. I focus on building clean, scalable applications and enjoy bridging design and development using **Figma**. Currently building an enterprise-grade ERP system, and always looking to sharpen my skills further.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## ⚙️ Tech Stack
-
-<table align="center" width="100%">
-<tr>
-<td valign="top" width="50%">
-
-**Frontend**
-<br/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/React-2563EB?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/React_Native-2563EB?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-<img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-
-**Database**
-<br/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-
-**Languages & Concepts**
-<br/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-<img src="https://img.shields.io/badge/OOP-0F172A?style=for-the-badge&logo=codeigniter&logoColor=white" />
-
-</td>
-<td valign="top" width="50%">
-
-**Backend & Authentication**
-<br/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-<img src="https://img.shields.io/badge/bcrypt.js-2563EB?style=for-the-badge&logo=letsencrypt&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_APIs-0F172A?style=for-the-badge&logo=fastapi&logoColor=white" />
-
-**Design & Tools**
-<br/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 💼 Experience
-
-<table align="center" width="100%">
-<tr>
-<td width="100%">
-
-**MERN Stack Developer Intern** · Jafferjees Pvt. Ltd. &nbsp;&nbsp;`Aug 2024 – Dec 2024`
-HRMS modules, employee induction form, salary management system, ZKTeco attendance device integration, automated salary generation, and Excel/print reporting.
-
-<br/>
-
-**Freelance — CRM & Ticketing System** &nbsp;&nbsp;`Dec 2024 – Jan 2025`
-Ticket management system with JWT & bcrypt authentication, role-based access control, and real-time status tracking.
-
-<br/>
-
-**Inventory & Production Management System** &nbsp;&nbsp;`Sep 2025 – Present`
-Full-scale ERP covering inventory, production, frontend, backend, and reporting modules.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 🚀 Projects
-
-<table align="center" width="100%">
-<tr>
-<th align="left">Project</th>
-<th align="left">Stack</th>
-<th align="left">Link</th>
-</tr>
-<tr>
-<td>Inventory & Production Management System</td>
-<td>React · Node · Express · MongoDB · JWT</td>
-<td><a href="https://aero-style-erp.vercel.app">Live Demo →</a></td>
-</tr>
-<tr>
-<td>Human Generated Prompts</td>
-<td>React · Tailwind CSS</td>
-<td><a href="https://humangeneratedprompts.netlify.app">Live Demo →</a></td>
-</tr>
-<tr>
-<td>Blogging App</td>
-<td>React · Firebase</td>
-<td><a href="https://personalbloggingapp-rafay.netlify.app">Live Demo →</a></td>
-</tr>
-<tr>
-<td>Website Analyzer</td>
-<td>Next.js · REST APIs</td>
-<td><a href="https://website-analyzer-tool.vercel.app">Live Demo →</a></td>
-</tr>
-<tr>
-<td>Todo App</td>
-<td>React · JavaScript</td>
-<td><a href="https://rafay-todo.netlify.app">Live Demo →</a></td>
-</tr>
-</table>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=abdulrafay0608&show_icons=true&theme=default&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=0F172A&bg_color=ffffff&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrafay0608&layout=compact&theme=default&hide_border=true&title_color=2563EB&text_color=0F172A&bg_color=ffffff" width="49%" />
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=2&width=1000" />
+<a href="mailto:abdulrafay0608@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://abdulrafay-developer.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/abdulrafay0608/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/abdulrafay0608"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 
-📫 **abdulrafay0608@gmail.com** &nbsp;·&nbsp; Let's connect and build something great together.
+<img src="https://komarev.com/ghpvc/?username=abdulrafay0608&style=for-the-badge&color=2563EB&label=Profile+Views"/>
+<img src="https://img.shields.io/github/followers/abdulrafay0608?style=for-the-badge&color=2563EB&labelColor=181717"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0F172A,100:2563EB&width=100%" width="100%"/>
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### 🚀 About Me
+
+I'm a **Full Stack Developer** from Karachi, Pakistan, specializing in the **MERN Stack** and **Next.js**. I turn complex requirements into clean, scalable, production-ready software — not just code that works, but code built to last.
+
+```yaml
+name: Abdul Rafay
+role: Full Stack Developer
+stack: MERN, Next.js, Tailwind
+focus: Scalable Dynamic and Static Web Apps
+learning: New Technologies
+status: Open to Work
+```
+
+</td>
+<td width="40%">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,redux,nodejs,express,mongodb,firebase,git,github,figma,vscode,postman&theme=dark&perline=8" />
+
+</div>
+
+<br/>
+
+## 📌 Featured Projects
+
+<div align="center">
+
+<a href="https://abdulrafay-developer.vercel.app">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=abdulrafay0608&repo=abdulrafay0608&theme=tokyonight&hide_border=true&show_owner=true" height="150"/>
+</a>
+
+</div>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=abdulrafay0608&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-streak-stats.demolab.com/?user=abdulrafay0608&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrafay0608&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulrafay0608&theme=tokyo-night&hide_border=true&height=170"/>
+
+</div>
+
+<details>
+<summary>🏆 <b>GitHub Trophies</b></summary>
+<br/>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=abdulrafay0608&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10"/>
+</div>
+</details>
+
+<br/>
+
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/abdulrafay0608/abdulrafay0608/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2563EB,100:0F172A&width=100%" width="100%"/>
+
+<div align="center">
+
+### 💬 Let's Build Something Great Together
+
+<sub>Open to full-time roles, remote positions, and freelance MERN / Next.js projects.</sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2563EB,100:0F172A&section=footer" width="100%"/>
 
 </div>
