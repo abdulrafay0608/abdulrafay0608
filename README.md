@@ -52,7 +52,44 @@ status: Open to Work
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,redux,nodejs,express,mongodb,firebase,git,github,figma,vscode,postman&theme=dark&perline=8" />
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,reactnative,vite,bootstrap,tailwind&theme=dark&perline=10" />
+
+### State Management
+
+<img src="https://skillicons.dev/icons?i=redux&theme=dark" />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase&theme=dark&perline=8" />
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark&perline=8" />
+
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+
+### APIs & Authentication
+
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
+![Axios](https://img.shields.io/badge/Axios-671DDF?style=for-the-badge&logo=axios&logoColor=white)
+![API Integration](https://img.shields.io/badge/API%20Integration-0A66C2?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![bcrypt](https://img.shields.io/badge/bcrypt-338033?style=for-the-badge)
+![RBAC](https://img.shields.io/badge/Role--Based%20Access%20Control-6C47FF?style=for-the-badge)
+
+### Programming Languages & Concepts
+
+<img src="https://skillicons.dev/icons?i=js,ts,c,cs&theme=dark&perline=8" />
+
+![OOP](https://img.shields.io/badge/OOP-00599C?style=for-the-badge)
+
+### Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,visualstudio,androidstudio,postman&theme=dark&perline=8" />
+
+![Thunder Client](https://img.shields.io/badge/Thunder%20Client-7B61FF?style=for-the-badge)
 
 </div>
 
